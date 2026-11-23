@@ -1,0 +1,11 @@
+{
+  "name": "inference-bureau",
+  "version": "1.0.0",
+  "description": "Fix Auditor's review findings on your branch and work with your Inference Bureau apps' data, from Cursor: find, count and change records, run actions, read an app's events.",
+  "author": { "name": "Inference Bureau", "email": "hello@inferencebureau.com" },
+  "homepage": "https://www.inferencebureau.com/docs/connectors",
+  "repository": "https://github.com/Inference-Bureau/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["code review", "pull requests", "apps", "shopify", "records", "mcp"],
+  "logo": "assets/logo.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "inference-bureau": {
+      "url": "https://api.inferencebureau.com/mcp"
+    }
+  }
+}
